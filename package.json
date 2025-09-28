@@ -1,0 +1,11 @@
+﻿{
+  "name": "tesla-ym50k",
+  "version": "1.0.0",
+  "description": "Auto-generated repo for DX farming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
